@@ -10,7 +10,6 @@ public class ScannerClass{
     System.out.println("Value of b"+b);
     
     
-    
 
     }
 
