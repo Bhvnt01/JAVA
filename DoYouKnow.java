@@ -6,7 +6,8 @@ public static void main(String []args){
     int d=4;
     int e=5;
     int Bhavneet=a+b+c+d+e;
-    System.out.println("sum of Bhavneet"+ Bhavneet);
-
+    System.out.println("value of Bhavneet"+ Bhavneet);
+    int f=a*b*c*d*e;
+    System.out.println("value of f"+f);
   }
 }
