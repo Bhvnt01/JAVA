@@ -1,4 +1,4 @@
-public class Functions{
+public Class Functions{
     void printFunction(){
         System.out.println(" in function");
     }

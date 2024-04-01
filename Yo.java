@@ -15,7 +15,7 @@ public class Yo{
         }
 
         Yo yo = new Yo();
-        yo.function(1);
+        yo.function(0);
 
     }
 }
